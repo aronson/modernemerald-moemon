@@ -11,6 +11,12 @@ You can get information on where to find certain Pokémon in my [personal docume
 
 All credit to the Moemon Team and respective authors of the sprites used. These assets were collected from their Discord resources and edited to work with the source code here.
 
+## Moemon Port Progress
+
+- Sprites (front, back, shiny): 95% done -- some later pokemon missing with sprite TBD, some pokemon have sprites and just need placement
+- Icons: 0% done
+- Overworld sprites: 0% done
+
 # Features:
 
 **Selectable options (at the start of the game):**
