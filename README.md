@@ -1,9 +1,15 @@
-# Pokémon Modern Emerald
+# Pokémon Modern Emerald (Moemon edition)
+
+Note: this project is a fork! Please see upstream for all inquiries and credits.
 
 This is a decompilation of Pokémon Emerald, edited to be "Pokémon Modern Emerald".
 You can get more information about Modern Emerald at [Pokecommunity](https://www.pokecommunity.com/showthread.php?t=494005)
 You can get information on where to find certain Pokémon in my [personal document](https://docs.google.com/spreadsheets/d/1eNPk1ibmKTW6OoQo9C2q7ds35NGk4mqyhWY4CzALiOk/edit#gid=1932008594)
 
+
+## Moemon Credit
+
+All credit to the Moemon Team and respective authors of the sprites used. These assets were collected from their Discord resources and edited to work with the source code here.
 
 # Features:
 
